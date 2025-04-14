@@ -3,6 +3,7 @@
 > _Flow like water. Strong as water. Clear like water. Nothing stops water — it finds a way by having obstacles._
 
 📖 [Read the story behind The Joyful Movement](./story.md)
+📖 [Reflection of heart](./episode-two.md)
 
 A new way to build software — from repetitive to remarkable.
 
